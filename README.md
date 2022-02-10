@@ -18,5 +18,6 @@ This way I was able to progress with the installation without problems.
 
 
 This is the link to access rocketchat: http://34.68.250.201:3000/channel/general
+Login: rocketchatchallenge
+Password: rocket@chat
 
-Due to time i wasn't able to do the API tests.
