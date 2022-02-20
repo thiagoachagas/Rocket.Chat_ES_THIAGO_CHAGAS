@@ -17,11 +17,11 @@ So I had to install Node version 14 (as the how-to was saying right at the beggi
 This way I was able to progress with the installation without problems.
 
 
-This is the link to access rocketchat: http://34.68.250.201:3000/channel/general
+This is the link to acceshttp://34.68.250.201:3000/channel/general
 Login: rocketchatchallenge
 Password: rocket@chat
 
 ![image](https://user-images.githubusercontent.com/99359659/153595430-cd28f076-a799-42fe-bd41-5b60f98530d1.png)
-![image](https://user-images.githubusercontent.com/99359659/153595563-5f4bc412-efd6-4a48-b61c-9289b48b3534.png)
+
 
 
